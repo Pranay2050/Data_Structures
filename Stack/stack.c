@@ -65,7 +65,7 @@ int main()
 OUTPUT
 The value 10 is pushed
 The value 20 is pushed
-The value 20 is poped
+The value 20 is popped
 The value at position 1 is 10
 The value at position 1 from top is changed with 30
 */
