@@ -2,13 +2,13 @@
 
 Contains the following operations
 
-PUSH
+-> PUSH
 
-POP
+-> POP
 
-READ
+-> READ
 
-CHANGE
+-> CHANGE
 
 # Hanoi.c
 
