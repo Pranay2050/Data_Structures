@@ -3,8 +3,11 @@
 Contains the following operations
 
 PUSH
+
 POP
+
 READ
+
 CHANGE
 
 # Hanoi.c
